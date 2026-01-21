@@ -1,3 +1,4 @@
+#  npx react-native-rename@latest "new_name"
 # rn-template
 ## Packages installed and configured
 
